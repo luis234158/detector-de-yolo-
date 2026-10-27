@@ -1,0 +1,21 @@
+# Imágenes capturadas (se suben a Roboflow, no al repo)
+fotos/
+
+# Resultados de entrenamiento y datasets descargados
+runs/
+datasets/
+Detector-de-monedas-*/
+
+# Pesos base que Ultralytics descarga solos
+yolo11*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
